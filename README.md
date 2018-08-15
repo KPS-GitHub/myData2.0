@@ -1,3 +1,11 @@
+### myData 2.0
+myData is a MERN app where users can track spending, caloric intake, and write notes/to-do's. These default categories were chosen because they are very common things that millions of people use on a daily basis. myData improves on these by presenting the user's data in graphs and statistics so that the information can be more meaningful and impactful for the user. For example, going from 2000 calories/day for one week to 2500/day the next may not sound like a huge difference, but when a person sees a graph with a line that rises from the 2000 level to the 2500 level, it makes the increase that much more noticeable and simply provides another way of looking at the data for better understanding.
+
+myData was initially created in a repo of the same name and was a bare-minimum version with only a spending page. This is the second iteration that is made with the aim of improving my code, fleshing out the site, and giving it a professional design.
+
+
+### create-react-app info (added by default upon execution of create-react-app command)
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
